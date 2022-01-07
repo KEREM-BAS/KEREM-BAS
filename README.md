@@ -4,8 +4,8 @@ Skills: Flutter/Python
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KEREM-BAS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kerem-bas/)  
-[<img src='!https://user-images.githubusercontent.com/67098610/148540586-82eb0959-6ae4-4c87-8d95-b99c266d36e8.png' alt='email' height='40'>](kerembas2000@gmail.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KEREM-BAS)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kerem-bas/)  [<img 
+src='!https://user-images.githubusercontent.com/67098610/148540586-82eb0959-6ae4-4c87-8d95-b99c266d36e8.png' alt='email' height='40'>](kerembas2000@gmail.com)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KEREM-BAS)](https://github.com/anuraghazra/github-readme-stats)
 
