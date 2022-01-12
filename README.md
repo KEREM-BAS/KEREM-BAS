@@ -1,6 +1,6 @@
 ### Hi there , my name is KEREM
 
-Skills: Flutter/Python
+Skills: Flutter
 
 
 
