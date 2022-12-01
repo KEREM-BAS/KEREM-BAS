@@ -9,5 +9,5 @@ src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='emai
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KEREM-BAS&show_icons=true&theme=graient)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KEREM-BAS&show_icons=true&theme=dracula)  
 
