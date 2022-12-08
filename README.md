@@ -8,7 +8,7 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KEREM-BAS&show_icons=true&theme=dracula)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KEREM-BAS&show_icons=true&theme=dracula) 
 
 
 
