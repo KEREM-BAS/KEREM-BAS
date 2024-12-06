@@ -8,7 +8,6 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KEREM-BAS)](https://git.io/streak-stats)
 
 
 
